@@ -1,0 +1,6 @@
+C:\Users\SOM\source\repos\개미수열3\개미수열3\bin\Debug\개미수열3.exe.config
+C:\Users\SOM\source\repos\개미수열3\개미수열3\bin\Debug\개미수열3.exe
+C:\Users\SOM\source\repos\개미수열3\개미수열3\bin\Debug\개미수열3.pdb
+C:\Users\SOM\source\repos\개미수열3\개미수열3\obj\Debug\개미수열3.csprojAssemblyReference.cache
+C:\Users\SOM\source\repos\개미수열3\개미수열3\obj\Debug\개미수열3.exe
+C:\Users\SOM\source\repos\개미수열3\개미수열3\obj\Debug\개미수열3.pdb
